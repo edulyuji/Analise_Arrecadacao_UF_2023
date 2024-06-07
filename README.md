@@ -48,7 +48,7 @@ Este projeto tem como objetivo analisar a arrecadação de impostos pelos estado
 - Foi plotado os gráficos para visualização da arrecadação de cada imposto por estado em 2023.
 
 ## Fonte dos Dados
-Os dados foram obtidos através do [Portal Brasileiro de Dados Abertos](https://dados.gov.br/dados/conjuntos-dados/resultado-da-arrecadacao).
+Os dados foram obtidos através do link [Dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/resultado-da-arrecadacao).
 
 ## Ferramentas Utilizadas
 - Python
